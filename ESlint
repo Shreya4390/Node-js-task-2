@@ -1,2 +1,5 @@
 esliEslint and Prettier are probably the most used tools in web development. Eslint helps to find and fix problems in your JavaScript code whilst Prettier 
 is an opinionated code formatter.
+
+
+//https://dev.to/bigyank/a-quick-guide-to-setup-eslint-with-airbnb-and-prettier-3di2Documents
