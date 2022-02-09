@@ -1,0 +1,5 @@
+1. Babel is a JavaScript compiler. It's a popular tool that helps you use the newest features of the JavaScript programming language.
+Babel is a tool that is used to convert ECMAScript 2015+ code into a backward compatible version of JavaScript 
+  so that older browsers and environment will be able to understand your code.
+
+For example, Node can't use ES6 import and export statements and some other cool features of ES6 syntax without the help of a compiler like Babel. 

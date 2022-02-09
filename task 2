@@ -1,0 +1,18 @@
+Day 1 - Instructions
+-----------------------------------------------
+Subject: node NodeJS_Basics_Training_Day_1_Instructions.js
+-----------------------------------------------
+Getting acquainted with the NodeJS ecosystem?
+
+This time we have something to add to your submission instructions. Read them below:
+You are required to setup babel to use ES6 standards
+Add an ESLint linter, configured with Airbnb guidelines
+Create a run script in package.json to run your code through npm start
+Any future assignment should be properly modularized along with the implementation of SOLID principles
+Install the husky module in development dependencies, and add the following to package.json
+"husky": {
+   "hooks": {
+      "pre-commit": "eslint ."
+   }
+}
+
