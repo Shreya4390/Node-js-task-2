@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "scripts": {
     "start": "nodemon --exec babel-node index.js"
-
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "echo \"[Husky] pre-commit\""
+    }
+  },  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shreya4390/Node-js-task-2.git"
@@ -28,7 +32,8 @@
   },
   "dependencies": {
     "async": "^3.2.3",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "husky": "^7.0.4"
   },
   "engines": {
     "node": ">=17.4.0"
