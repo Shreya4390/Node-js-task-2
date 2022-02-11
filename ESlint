@@ -3,3 +3,15 @@ is an opinionated code formatter.
 
 
 //https://dev.to/bigyank/a-quick-guide-to-setup-eslint-with-airbnb-and-prettier-3di2Documents
+//https://www.notion.so/zarkom/ESLint-Pluggable-JavaScript-linter-325d79bd7ef34f0a8916a22727fa2491
+# premade style rules with ESLint
+   => quotes
+   => semi
+   => space-infix-ops
+   => key-spacing
+   => prefer-const
+   => no-multiple-empty-lines
+   => no-self-compare
+   => indent
+   => comma-dagle
+   

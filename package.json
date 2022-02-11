@@ -1,8 +1,9 @@
 {
   "name": "node-js-task-2",
   "version": "1.0.0",
-    "scripts": {
+  "scripts": {
     "start": "nodemon --exec babel-node index.js"
+
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
     "prettier": "2.5.1"
   },
   "dependencies": {
+    "async": "^3.2.3",
     "express": "^4.17.2"
   },
   "engines": {

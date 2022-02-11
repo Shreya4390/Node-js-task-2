@@ -1,0 +1,10 @@
+# The SOLID principles
+
+
+SOLID is an acronym that stands for the following five principles:
+
+1. Single Responsibility principles: A class should have one, and only one, reason to change. 
+2. Open Close principles:A class or file should be open for extension but closed for modification. 
+3. Liskov Substitution Priniciple
+4. Interface Segregation Priniciple 
+5. Dependency Inverion Principle
